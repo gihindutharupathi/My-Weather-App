@@ -1,4 +1,4 @@
-# 🌦️ Weather Mobile Application
+# 🌦️ My Weather Mobile Application
 
 A mobile weather application that allows users to search for real-time weather information by location. The app displays current temperature and weather conditions in a simple and easy-to-use interface.
 
